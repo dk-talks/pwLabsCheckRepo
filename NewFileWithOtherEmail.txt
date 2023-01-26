@@ -1,0 +1,1 @@
+This file is made after changing the global user.email to know if pushing works
